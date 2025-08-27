@@ -7,6 +7,8 @@ We use the **Segment Anything Model (SAM)** to generate masks from multiple nove
 
 Colab: https://colab.research.google.com/drive/1BaptE13PzTk3jk3Mb9p78_r_4j-Q7WNY?usp=sharing
 
+Website: https://tarungangadhar.github.io/semantic-fusion-website/
+
 ---
 
 ## Method Overview
